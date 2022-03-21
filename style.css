@@ -349,14 +349,7 @@ section .title::after{
     font-size: 18px;
 }
 
-.skills .skills-content .right .line::before{
-    content: "";
-    position: absolute;
-    height: 100%;
-    left: 0;
-    top: 0;
-    
-}
+
 
 
 /* teams section styling */
